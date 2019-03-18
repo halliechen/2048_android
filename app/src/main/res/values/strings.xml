@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="button1">28</string>
+    <string name="button2">2048</string>
+    <string name="button3">2048</string>
+    <string name="button4">2048</string>
+</resources>
